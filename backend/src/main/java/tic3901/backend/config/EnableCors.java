@@ -1,4 +1,4 @@
-package tic3901.backend;
+package tic3901.backend.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
